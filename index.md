@@ -1,5 +1,13 @@
 ## Jipeng Cheng 程继鹏
 
+Please check the following documents for your evaluation on my ability:
+[CV](https://cheng-jipeng.github.io/cjpdoc/CV_Jipeng_Cheng.pdf)
+[Cover Letter](https://cheng-jipeng.github.io/cjpdoc/Cover_Letter_Jipeng_Cheng.pdf)
+[Writing Sample](https://cheng-jipeng.github.io/cjpdoc/Writing_Sample_Jipeng_Cheng.pdf)
+[Code Sample](https://cheng-jipeng.github.io/cjpdoc/Code_Sample_Link+Paper_List_Jipeng_Cheng.pdf)
+[Reference List](https://cheng-jipeng.github.io/cjpdoc/Reference_List_Jipeng_Cheng.pdf)
+
+
 You can use the [editor on GitHub](https://github.com/Cheng-Jipeng/Cheng-Jipeng.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
