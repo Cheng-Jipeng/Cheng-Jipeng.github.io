@@ -1,4 +1,4 @@
-## About me
+## Jipeng Cheng
 
 Please check the following documents for your evaluation on my ability:
 
