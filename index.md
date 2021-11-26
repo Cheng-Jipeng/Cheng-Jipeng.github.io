@@ -4,7 +4,7 @@ Please check the following documents for your evaluation on my ability:
 
 [CV](https://cheng-jipeng.github.io/cjpdoc/CV_Jipeng_Cheng.pdf)
 
-[Cover Letter](https://cheng-jipeng.github.io/cjpdoc/Cover_Letter_Jipeng_Cheng.pdf)
+[Cover Letter](https://cheng-jipeng.github.io/cjpdoc/SOP_git_Jipeng_Cheng.pdf)
 
 [Writing Sample](https://cheng-jipeng.github.io/cjpdoc/Writing_Sample_Jipeng_Cheng.pdf)
 
