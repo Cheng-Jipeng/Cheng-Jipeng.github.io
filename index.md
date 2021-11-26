@@ -1,4 +1,4 @@
-## Jipeng Cheng 程继鹏
+## About me
 
 Please check the following documents for your evaluation on my ability:
 
