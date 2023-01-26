@@ -1,4 +1,4 @@
-## Jipeng Cheng
+## CHENG Jipeng
 
 [CV](https://cheng-jipeng.github.io/cjpdoc/CV_Jipeng_Cheng.pdf)
 
