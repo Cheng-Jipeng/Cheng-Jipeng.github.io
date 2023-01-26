@@ -1,7 +1,5 @@
 ## Jipeng Cheng
 
-Please check the following documents for your evaluation on my ability:
-
 [CV](https://cheng-jipeng.github.io/cjpdoc/CV_Jipeng_Cheng.pdf)
 
 [Experience Description](https://cheng-jipeng.github.io/cjpdoc/SOP_git_Jipeng_Cheng.pdf)
